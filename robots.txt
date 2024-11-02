@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifuseebi.github.io/RiY/sitemap_index.txt
+Sitemap: https://ifuseebi.github.io/SJM/sitemap_index.txt
+Sitemap: https://ifuseebi.github.io/cyf/sitemap_index.txt
+Sitemap: https://ifuseebi.github.io/lfQ/sitemap_index.txt
